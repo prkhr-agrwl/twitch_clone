@@ -6,6 +6,7 @@ const Header = () => {
 	return (
 		<div className="ui secondary pointing menu">
 			<Link to="/" className="ui item">
+				<i className="large middle aligned icon video" />
 				StreamCult
 			</Link>
 			<div className="right menu">
